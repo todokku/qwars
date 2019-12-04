@@ -45,10 +45,10 @@ python3
 With the terminal window open, type the below command to run your qapp.
 
 ```bash
-python qwars.py
+python3 qwars.py
 ```
 
-Navigate to [localhost:5000](http://localhost:5000) to launch your qapp in your default web browser.
+A pygame console will load after a successful call to the IBM cloud.
 
 ## Contributing
 
