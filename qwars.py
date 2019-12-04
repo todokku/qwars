@@ -381,12 +381,8 @@ if __name__ == '__main__':
     Call IBM and return the various values
     to seed our mob randomizer.
     '''
-    #q_mob, b_00, b_11, b_01, b_10 = call_ibm()
-    b_00 = 100
-    b_11 = 100
-    b_01 = 1
-    b_10 = 1
-    q_mob = 'burlington.png'
+    q_mob, b_00, b_11, b_01, b_10 = call_ibm()
+
 
     '''
     Init Game.
